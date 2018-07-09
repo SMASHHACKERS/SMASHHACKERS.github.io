@@ -1,2 +1,2 @@
 # SMASHHACKERS.github.io
-An example portfolio project!
+Example projects for SMASH CS1!
